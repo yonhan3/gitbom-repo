@@ -1,0 +1,172 @@
+
+outfile: 6581e00f013b687e9a457f6375b65ff19c276b95 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/hostname.o
+infile: 5be268ef33dc87d593bafb6ee05cb0ccd3fe018f path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/hostname.c
+infile: eaf0a6aea8151db1d13a56fe22d9ac4448526b7f path: /usr/include/stdc-predef.h
+infile: ce014d03a588ef5e2064b25594c69b9746c37976 path: /usr/include/x86_64-linux-gnu/sys/stat.h
+infile: f3347777f52e438289795c5cd40f64db20aad33e path: /usr/include/features.h
+infile: ff7144f3f3aa7e9856c82f4b4325b664959c5e68 path: /usr/include/x86_64-linux-gnu/sys/cdefs.h
+infile: 70f652bca14d65c1de5a21669e7c0ffb8ecfe5ea path: /usr/include/x86_64-linux-gnu/bits/wordsize.h
+infile: b77124f84274d67df1af2351431d2a7608618ced path: /usr/include/x86_64-linux-gnu/bits/long-double.h
+infile: 70a1ba017357d3111cc510e73b269541ca2aaf09 path: /usr/include/x86_64-linux-gnu/gnu/stubs.h
+infile: 4f9c4ba6e9d93715e2d41e237c6a028f5d12fe09 path: /usr/include/x86_64-linux-gnu/gnu/stubs-64.h
+infile: adba926b45470fdc96ee922047213f1c8b210eeb path: /usr/include/x86_64-linux-gnu/bits/types.h
+infile: 2cd072093142a6e2a5f46d685733f036c60dda98 path: /usr/include/x86_64-linux-gnu/bits/timesize.h
+infile: d08414559718ff90c55eab4525b25a89dc7d6ecc path: /usr/include/x86_64-linux-gnu/bits/typesizes.h
+infile: 42f21fc86ee83369df626686a6a56ba329029847 path: /usr/include/x86_64-linux-gnu/bits/time64.h
+infile: d11c69cfd320581285eb12941e69382c2c6544b7 path: /usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h
+infile: 1892b999d1b95ae9a0025c33f35cfd3f136737d8 path: /usr/include/x86_64-linux-gnu/bits/endian.h
+infile: 962a9ae4d6e9e012b82ab31fe2f567efb6c4c001 path: /usr/include/x86_64-linux-gnu/bits/endianness.h
+infile: ab8287c6fe50c6fcc08ba142f8277f1776a42ea0 path: /usr/include/x86_64-linux-gnu/bits/types/time_t.h
+infile: 25dec69dda7f662a492f7bfa1da2b44d40653b0d path: /usr/include/x86_64-linux-gnu/bits/stat.h
+infile: 8e7ba241ddfa0d99ce1f6983a067f5e0fdcbb24b path: /usr/include/x86_64-linux-gnu/bits/statx.h
+infile: 6ead867aef9f49a6363db7510281c62148eeb064 path: /usr/include/linux/stat.h
+infile: 999cb0fa88ebdf0a3c9503b43eb2605cd9c487aa path: /usr/include/linux/types.h
+infile: b9e79bc580dd6cf47ae1c6a939eb8c67e6f5f7e5 path: /usr/include/x86_64-linux-gnu/asm/types.h
+infile: dfaa50d99d8f3f2b1d78d47c9b2ba7e98d3b3f5a path: /usr/include/asm-generic/types.h
+infile: db61e817d59562c4e6e793ac1aa9775b545df3fb path: /usr/include/asm-generic/int-ll64.h
+infile: 5d72c84588388793d0d54a21b8252c48af3347d6 path: /usr/include/x86_64-linux-gnu/asm/bitsperlong.h
+infile: 0aac245b6bd71d4f52c337e8fe24c79053ff9f2c path: /usr/include/asm-generic/bitsperlong.h
+infile: 9a7a740b35a2c97b178228c291edbe04af84a2a6 path: /usr/include/linux/posix_types.h
+infile: 23e025fec0419300dd61c3ec0e3ba1e8846ede38 path: /usr/include/linux/stddef.h
+infile: fe9e6aa97b4677ab309c2e9269fa642a15254cdf path: /usr/include/x86_64-linux-gnu/asm/posix_types.h
+infile: 515afb8059ce359f9deef21dba95003fc11e2781 path: /usr/include/x86_64-linux-gnu/asm/posix_types_64.h
+infile: f0733a26ebfc220c163d0fee11f637fedc40e033 path: /usr/include/asm-generic/posix_types.h
+infile: 932887bd89d53ecdb68ec6850c8342ac37a25384 path: /usr/include/x86_64-linux-gnu/bits/statx-generic.h
+infile: 058285a230e2f8d6df3acc163451e418b3aff3ce path: /usr/include/x86_64-linux-gnu/bits/types/struct_statx_timestamp.h
+infile: e77c9aef295cc5dc1f54f3c96d0954c0160ed0e6 path: /usr/include/x86_64-linux-gnu/bits/types/struct_statx.h
+infile: 95eaf68dfeedcfe964dd785a1f39d8fb2be62155 path: /usr/include/netinet/in.h
+infile: cd9fd65c5ce7483cecb60fe3657fd403a97094fd path: /usr/include/x86_64-linux-gnu/bits/stdint-uintn.h
+infile: 7780c00ecbd25e2cb8a78f667d28006d71b716f2 path: /usr/include/x86_64-linux-gnu/sys/socket.h
+infile: 793258b4811ec9c5660751d0e92663c599c55a69 path: /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h
+infile: da692e1c01ae0d84a121084f99d1451ae26d5a6d path: /usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h
+infile: 50f89db2ace4862247522cc4d67fa12de9f7699f path: /usr/include/x86_64-linux-gnu/bits/socket.h
+infile: c9241e40b4d71ed09ae8c1995da449014afd4fbe path: /usr/include/x86_64-linux-gnu/sys/types.h
+infile: ce97248f8856164bef6a2949ef88a289c9046e96 path: /usr/include/x86_64-linux-gnu/bits/types/clock_t.h
+infile: b17c7da85315c67196341cad4afd8a253115f149 path: /usr/include/x86_64-linux-gnu/bits/types/clockid_t.h
+infile: d71a4130e213131dd58dc1e3c7c53fbe59db47a8 path: /usr/include/x86_64-linux-gnu/bits/types/timer_t.h
+infile: 9e7bbc97bae7af0a12121407be7f92e85f43fa55 path: /usr/include/x86_64-linux-gnu/bits/stdint-intn.h
+infile: 0256ee444604aa6d160d82cc4df88e6dc0a337a1 path: /usr/include/endian.h
+infile: ccf613a9f6da0efd39de995493aecaea2a1c2cf9 path: /usr/include/x86_64-linux-gnu/bits/byteswap.h
+infile: f2fc48b63d76682e60db6d2be1a2bc386812a94a path: /usr/include/x86_64-linux-gnu/bits/uintn-identity.h
+infile: 29d011c2d57d166f766b7120962a93f69a99cdb7 path: /usr/include/x86_64-linux-gnu/sys/select.h
+infile: b2e3ac800ac9265536f383f820bf81147188eabc path: /usr/include/x86_64-linux-gnu/bits/select.h
+infile: 8b27e9112d637f74f7ec880dd9d95cb3c9874b7f path: /usr/include/x86_64-linux-gnu/bits/types/sigset_t.h
+infile: e2f18acf30f43496567b1511456089dcd1798425 path: /usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h
+infile: 70394ce886de14d1cf62dd2ed7dce87930f60f50 path: /usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h
+infile: 7e17430ed94dd1679af10afa3d74795f9c97c0e8 path: /usr/include/x86_64-linux-gnu/bits/select2.h
+infile: ac65027463c69bba906a840a425f03d9edabd474 path: /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h
+infile: fd08b6916a057078ef1469a973b52f7796152d19 path: /usr/include/x86_64-linux-gnu/bits/thread-shared-types.h
+infile: 399d4868a9494cba9957c92e40a81b86b1ae9b51 path: /usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h
+infile: 6a18f1ea150b7eaf2dfa5b376bfd2179f0a5b5e6 path: /usr/include/x86_64-linux-gnu/bits/struct_mutex.h
+infile: 9b337c0aab114ea32be32b11b8e17ffa4ddb8b97 path: /usr/include/x86_64-linux-gnu/bits/struct_rwlock.h
+infile: 4c8f768f76f47897db296245758744d093cd2757 path: /usr/include/x86_64-linux-gnu/bits/socket_type.h
+infile: 9b4759bea77ce3ae99c5ee9939580112b98382e0 path: /usr/include/x86_64-linux-gnu/bits/sockaddr.h
+infile: 6b71384b9d8b42ac6cce8a955a73220bda4957d5 path: /usr/include/x86_64-linux-gnu/asm/socket.h
+infile: 370fa1109ec365679c7581816f8596ddf60974c4 path: /usr/include/asm-generic/socket.h
+infile: def6d4746ee7fef64057f79e8d76ac41688671d9 path: /usr/include/x86_64-linux-gnu/asm/sockios.h
+infile: 44fa3ed7048322bf072e4ed21945f5ed9415e318 path: /usr/include/asm-generic/sockios.h
+infile: e0bf59d383613a0bc500cb9a59ea6d7365176bcd path: /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h
+infile: c0421ce244c7516a9573846237ef43028bbf560f path: /usr/include/x86_64-linux-gnu/bits/socket2.h
+infile: 77cf4af449463cdedfad96bceb2965b8d9d68fbd path: /usr/include/x86_64-linux-gnu/bits/in.h
+infile: 651fc69f1e6578b65a89b0d0cadff21ef32571b4 path: /usr/include/arpa/inet.h
+infile: ffcd66d97c40d0d067bbf0df8b10d7df56023b90 path: /usr/include/ifaddrs.h
+infile: e587a5ce59cf122d85d2045712278861530b004e path: /usr/include/net/if.h
+infile: e3470631e18355a153bb082b50d5b334c2ee70c3 path: /usr/include/stdlib.h
+infile: b872a417befc573de12497f136bb74def06f5f76 path: /usr/include/x86_64-linux-gnu/bits/libc-header-start.h
+infile: 33382cd356285d7f1f3ac71db6a771ce24f336f2 path: /usr/include/x86_64-linux-gnu/bits/waitflags.h
+infile: 66d88a0be61c8081a24fb51219bb46fddb93c276 path: /usr/include/x86_64-linux-gnu/bits/waitstatus.h
+infile: f5c22e6376e2fc57bcc64d60a6e34455f75f7fc1 path: /usr/include/x86_64-linux-gnu/bits/floatn.h
+infile: 6aa5ba12e4e03512b1b67a0546cee2fb0f606b1e path: /usr/include/x86_64-linux-gnu/bits/floatn-common.h
+infile: 6156631d7535d82ef12a63975c62df75c82d6b76 path: /usr/include/x86_64-linux-gnu/bits/types/locale_t.h
+infile: 53e9a9c41d4cfb762a675997620bb0604342ac37 path: /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h
+infile: bd44688720840981438ff74d5734836c32f37b0f path: /usr/include/alloca.h
+infile: 2f248a6937b0fa50d2bf6babeceb0a19f44fff94 path: /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h
+infile: 4a414ae66ce219b7b24631230420a1fe5304f504 path: /usr/include/x86_64-linux-gnu/bits/stdlib-float.h
+infile: bfdee750730e16406c5d4532fbeb3390706a19a5 path: /usr/include/x86_64-linux-gnu/bits/stdlib.h
+infile: 5a10a4d3ee94e8d960c6a2dadbea4355cccab77e path: /usr/include/stdio.h
+infile: 7d16fbf5068f10006f7d530481ae0268915e1094 path: /usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h
+infile: bb04576651b9097b3027e4299cc30c88f334535f path: /usr/include/x86_64-linux-gnu/bits/types/__fpos_t.h
+infile: 1d8a4e28d1b62a2bfeba837fe18422cd106e6ddf path: /usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h
+infile: 06a6891154fff74e1ddb6245f4a0467b09c617c5 path: /usr/include/x86_64-linux-gnu/bits/types/__fpos64_t.h
+infile: 06dd79bc831bb06a6267a36ad2d62beccd7900b2 path: /usr/include/x86_64-linux-gnu/bits/types/__FILE.h
+infile: f2682632090ba3e7f2caa1736394cbb235ceab0c path: /usr/include/x86_64-linux-gnu/bits/types/FILE.h
+infile: 06feadf3123983f11bac5f2b64632762fb69bb69 path: /usr/include/x86_64-linux-gnu/bits/types/struct_FILE.h
+infile: 2df66561468ef66c86f7041d9189d00e8c94e48f path: /usr/include/x86_64-linux-gnu/bits/types/cookie_io_functions_t.h
+infile: 573aac45971d28ad7903d7d41cda4cc075eda1c7 path: /usr/include/x86_64-linux-gnu/bits/stdio_lim.h
+infile: d6f5fa0a5eaf8e8362a03b2d7088d9f25087d3b8 path: /usr/include/x86_64-linux-gnu/bits/sys_errlist.h
+infile: da62908fd7060acabf57c462dfb357d08908d1cb path: /usr/include/x86_64-linux-gnu/bits/stdio.h
+infile: 60bc81735e265eb61b5600e57eb9a303f00ed7c9 path: /usr/include/x86_64-linux-gnu/bits/stdio2.h
+infile: 0dd4200ad63e9bf6620699796907f95209eab052 path: /usr/include/unistd.h
+infile: 3ae7525ef76a99095d6ca3bf944bf3b19bca941d path: /usr/include/x86_64-linux-gnu/bits/posix_opt.h
+infile: eecee90ed6efdfb2cc7314b3558055824c425c96 path: /usr/include/x86_64-linux-gnu/bits/environments.h
+infile: 5dc8215093031fc202625f0b146afb75551bd9a2 path: /usr/include/x86_64-linux-gnu/bits/confname.h
+infile: 8dda543ab71aec76add4c7d97b9ab42423f4772f path: /usr/include/x86_64-linux-gnu/bits/getopt_posix.h
+infile: bbc0f782d4a5b3668e7710a51e5bbcf0fb752fad path: /usr/include/x86_64-linux-gnu/bits/getopt_core.h
+infile: b8a8211d83acf5d0dd78000d3d6e6da95048fd29 path: /usr/include/x86_64-linux-gnu/bits/unistd.h
+infile: c315cc5cb8a0c1446e26467fd65a895aaedc63a5 path: /usr/include/x86_64-linux-gnu/bits/unistd_ext.h
+infile: 99f6794c662518b40b3ebaf073103de45d051b4e path: /usr/include/getopt.h
+infile: 57250629cf40e9c82e477bc56389c0a09f484d84 path: /usr/include/x86_64-linux-gnu/bits/getopt_ext.h
+infile: a0f2860cc2f992862b7fcc380a9638bd0f595e2c path: /usr/include/string.h
+infile: 87882ec0a75cfa080d56b3ad0abe00246a571c59 path: /usr/include/strings.h
+infile: d4091f4f69f7996f2a96cf0d494ac8d007fee727 path: /usr/include/x86_64-linux-gnu/bits/strings_fortified.h
+infile: e4d07cb50c4dcbe785d3645b177eeee8e2f3cfc8 path: /usr/include/x86_64-linux-gnu/bits/string_fortified.h
+infile: 575e416dac199f2e588e3af130cff08350334287 path: /usr/include/netdb.h
+infile: 529a4ada218a25de05296ac623dc1d371ee588f2 path: /usr/include/rpc/netdb.h
+infile: e8b28de7e3ff6b8bf47661235edbebed511534d8 path: /usr/include/x86_64-linux-gnu/bits/types/sigevent_t.h
+infile: 36a5b82bf4466567ed9b5f7d359578fda0a64014 path: /usr/include/x86_64-linux-gnu/bits/types/__sigval_t.h
+infile: 56df2a6b3b6878764f1ac8b079ab9a97c3c9b619 path: /usr/include/x86_64-linux-gnu/bits/netdb.h
+infile: 79e918557a918ae39ade28385ead3f8d83e5f265 path: /usr/include/errno.h
+infile: 81308af9053dc0331bdc326313308f7f7712aa3b path: /usr/include/x86_64-linux-gnu/bits/errno.h
+infile: 70f2bd34e3354bc551ae6d0481f752c642ad6a40 path: /usr/include/linux/errno.h
+infile: 4c82b503d92ffabcc6eb558a50ae5d6dba8a5f7c path: /usr/include/x86_64-linux-gnu/asm/errno.h
+infile: cf9c51ac49f97efd8d5aed07cf4fca2d9a368515 path: /usr/include/asm-generic/errno.h
+infile: 9653140bff92dd2ee5a261a66dfe6c5687c3e956 path: /usr/include/asm-generic/errno-base.h
+infile: 63b452bac2544c4b54468f102c9d7e99cf3e89e4 path: /usr/include/x86_64-linux-gnu/bits/types/error_t.h
+infile: 351495aa4feaf23993fe65afc0760615268d044e path: /usr/include/ctype.h
+infile: f6fd72945f746cf28c1fe4163ad78ca9dd9ceaaf path: /usr/include/err.h
+build_cmd: cc -g -O2 -fdebug-prefix-map=/build/hostname-KanNpugNLy=. -fstack-protector-strong -Wformat -Werror=format-security -Wall -O2 -Wall -D_GNU_SOURCE -Wdate-time -D_FORTIFY_SOURCE=2 -c -o hostname.o hostname.c
+==== End of raw info for this process
+
+
+outfile: ef79f940d64dd1e9677d6cb8b01d09caa9e00e31 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/hostname
+infile: 44d2434c96e05053aae81154fd3708f816fdca68 path: /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so
+infile: 8b001f0bf927774c261994ed693b4442aa2041d7 path: /lib64/ld-linux-x86-64.so.2
+infile: d820fade71cfa5d0563f2f9ae7283d8e38e95cf6 path: /usr/lib/x86_64-linux-gnu/Scrt1.o
+infile: 21aa6f286ac7b15cf858212c8b9573c41d754a66 path: /usr/lib/x86_64-linux-gnu/crti.o
+infile: f70078e46943e673067e8f659a5d8e67acadcaf2 path: /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o
+infile: 6581e00f013b687e9a457f6375b65ff19c276b95 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/hostname.o
+infile: e5fcd5dad2115dbeeda8587bd2731357154f5890 path: /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o
+infile: fea351cd56632e425aa9d2a114bbf49332e39ad1 path: /usr/lib/x86_64-linux-gnu/crtn.o
+build_cmd: /usr/bin/ld -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccJW3BMj.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -o hostname /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. hostname.o -z relro -z now -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+==== End of raw info for this process
+
+
+outfile: ef79f940d64dd1e9677d6cb8b01d09caa9e00e31 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/hostname
+infile: 6581e00f013b687e9a457f6375b65ff19c276b95 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/hostname.o
+build_cmd: cc -g -O2 -fdebug-prefix-map=/build/hostname-KanNpugNLy=. -fstack-protector-strong -Wformat -Werror=format-security -Wall -O2 -Wall -D_GNU_SOURCE -o hostname hostname.o -Wl,-z,relro -Wl,-z,now
+==== End of raw info for this process
+
+
+outfile: 6f41ea69396ab9a32077d42f0e0e6864b04922b2 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/debian/.debhelper/hostname/dbgsym-root/usr/lib/debug/.build-id/a4/8430cf5ad62741c35f2797d84b367e7258d14c.debug
+infile: ef79f940d64dd1e9677d6cb8b01d09caa9e00e31 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/debian/hostname/bin/hostname
+build_cmd: objcopy --only-keep-debug --compress-debug-sections debian/hostname/bin/hostname debian/.debhelper/hostname/dbgsym-root/usr/lib/debug/.build-id/a4/8430cf5ad62741c35f2797d84b367e7258d14c.debug
+==== End of raw info for this process
+
+
+outfile: ef79f940d64dd1e9677d6cb8b01d09caa9e00e31 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/debian/hostname/bin/hostname
+PID: 182524 pre_exec
+build_cmd: strip --remove-section=.comment --remove-section=.note debian/hostname/bin/hostname
+==== End of raw info for PID 182524 process
+
+
+outfile: 8cf556f1bc2b80d9b14324b6bd3a102b50761248 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/debian/hostname/bin/hostname
+PID: 182524 post_exec
+build_cmd: strip --remove-section=.comment --remove-section=.note debian/hostname/bin/hostname
+==== End of raw info for PID 182524 process
+
+
+outfile: cd6933dd663ca099e4c7758bdb22b5cbcd5478d4 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/debian/hostname/bin/hostname
+infile: 6f41ea69396ab9a32077d42f0e0e6864b04922b2 path: /tmp/mmdebstrap.DrGD2Fj3fR/build/hostname-KanNpugNLy/debian/.debhelper/hostname/dbgsym-root/usr/lib/debug/.build-id/a4/8430cf5ad62741c35f2797d84b367e7258d14c.debug
+build_cmd: objcopy --add-gnu-debuglink debian/.debhelper/hostname/dbgsym-root/usr/lib/debug/.build-id/a4/8430cf5ad62741c35f2797d84b367e7258d14c.debug debian/hostname/bin/hostname
+==== End of raw info for this process
+
