@@ -39,3 +39,20 @@ Or if the CVE database applies to both deb/rpm packages, then it can be saved un
 The gitBOM docs of all software packages can put into a common objects directory for de-duplication.
 Similar de-duplication efforts can be done for metadata. Other optimizations like compression can also be done.
 Some access APIs will be provided, as in the SoftwareHeritage website. All these will be future work.
+
+How to use this gitBOM repo
+---------------------------
+
+People can create various metadata and associate them with the gitBOM artifact tree.
+For example, for CVE search, the bomsh_create_cve.py script from bomsh can be used to generate CVE database for OpenSSL.
+Then the bomsh_search_cve.py script can be run to find out the vulnerable CVElist and FixedCVElist for your binary files.
+
+    $ bomsh/scripts/bomsh_search_cve.py -b deb/openssl/1.1.1m-1/amd64 -d openssl_cvedb.json -m your-metadata-file -vv -f comma-separated-list-of-binaries
+
+If you are just interested in inspecting the gitBOM artifact tree for your binary files, then you can use an empty cvedb file:
+
+    $ echo "{}" > openssl_cvedb.json
+    $ bomsh/scripts/bomsh_search_cve.py -b deb/openssl/1.1.1m-1/amd64 -d openssl_cvedb.json -m your-metadata-file -vv -f comma-separated-list-of-binaries
+
+Similarly, bugs, features, security compliance, compatibility, build info, attestations, or declarations of mitigations can also be created as metadata.
+If you have any good ideas, please share with us. More people involved, more useful gitBOM will be!
